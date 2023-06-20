@@ -1,2 +1,2 @@
-# chatbot
-Self learning chatbot where it takes a file or a webpage as an input and after asking the question we will get the answers related to that file.
+# Hi there 
+I am princy from India. Being computer Science aspirant| Microsoft Certified, pursuing bachelor's degree. I do love coding, learning new languages, creating projects, as well exploring the technologies. You can check out my linkedin at www.linkedin.com/in/princy-mangla.
